@@ -29,7 +29,7 @@ CSS自定义器是一个功能强大的油猴脚本，允许用户在任何网�
 ## 🚀 安装
 
 1. 确保您已安装 [Tampermonkey](https://www.tampermonkey.net/) 或其他兼容的用户脚本管理器
-2. [点击此处](https://github.com/ABUQWQ/Customize-CSS/](https://github.com/ABUQWQ/Customize-CSS/blob/main/enhanced_script.js)) 安装脚本
+2. [点击此处](https://github.com/ABUQWQ/Customize-CSS/](https://github.com/ABUQWQ/Customize-CSS/blob/main/enhanced_script.js) 安装脚本
 3. 在弹出的Tampermonkey安装页面中点击"安装"
 
 ## 🔧 使用方法
